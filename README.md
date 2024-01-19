@@ -3,12 +3,8 @@ Problem Statement:
 Aspiring iPhone app creators often find it challenging to decide which types of apps to make, how much to charge for them, and how to get good reviews from users. They also have trouble writing descriptions that make people interested in their apps and understanding how many similar apps are out there. Finding solutions to these issues would make it easier for app developers to create successful apps.
 About the dataset:
 The dataset used for this project can be found here:
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-- Exploratory Data Analysis (EDA):
+
+-Exploratory Data Analysis (EDA):
  EDA is the initial step to comprehend the dataset's structure and identify potential issues. This includes detecting missing or inconsistent data and outliers, ensuring a clean dataset for further analysis.
 Key Insights and Recommendations:
 •	Paid apps tend to receive better ratings, indicating that users are willing to pay for quality. Developers should consider the value their app offers and set an appropriate price to maximize revenue and user satisfaction.
