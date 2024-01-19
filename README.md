@@ -8,7 +8,7 @@ The dataset used for this project can be found here:
 + text in green
 ! text in orange
 # text in gray
-Exploratory Data Analysis (EDA):
+- Exploratory Data Analysis (EDA):
  EDA is the initial step to comprehend the dataset's structure and identify potential issues. This includes detecting missing or inconsistent data and outliers, ensuring a clean dataset for further analysis.
 Key Insights and Recommendations:
 •	Paid apps tend to receive better ratings, indicating that users are willing to pay for quality. Developers should consider the value their app offers and set an appropriate price to maximize revenue and user satisfaction.
