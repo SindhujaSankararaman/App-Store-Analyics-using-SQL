@@ -4,9 +4,6 @@ For over a decade, the App Store has been a trusted platform for discovering and
 ## Problem Statement:
 Aspiring iPhone app creators often find it challenging to decide which types of apps to make, how much to charge for them, and how to get good reviews from users. They also have trouble writing descriptions that make people interested in their apps and understanding how many similar apps are out there. Finding solutions to these issues would make it easier for app developers to create successful apps.
 
-About the dataset:
-The dataset used for this project can be found here:
-
 ## Exploratory Data Analysis (EDA):
  EDA is the initial step to comprehend the dataset's structure and identify potential issues. This includes detecting missing or inconsistent data and outliers, ensuring a clean dataset for further analysis.
  
